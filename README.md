@@ -6,4 +6,4 @@ Le developpement d"application est pour moi un moyen utilisé pour améliorer to
 
 Avec le parcours fait et les connaissances acquises dans cette formation (déjà détenteur des badges "connaissance", et "cursus") j'ai décidé d'être un blogeur.**Je suis donc prêt à intégrer un groupe dans le cadre du projet de création d'application web innovante** dans le domaine des médias.
 
-Je remercie tout ce qui ont permis de faire cette formation.
+Je remercie tout ceux qui ont permis de faire cette formation.
