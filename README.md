@@ -1,6 +1,6 @@
 ##Présentation  
 
-**voir mes ![Gist sur Github] (https://gist.github.com/dacquin2003)**
+**voir mes [Gist sur Github](https://gist.github.com/dacquin2003)**
 
 Je suis Michel BODO, résidant à Abidjan Côte d'ivoire.Ingénieur des techniques biomédicales,passionné  d'informatique, je me classe dans la catégorie des **développeurs autodidactes**. Il est indéniable que je renforcerai mes capacités avec cette formation en ligne delivrée par afrique innovation.
 
